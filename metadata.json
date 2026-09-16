@@ -1,0 +1,6 @@
+{
+  "name": "Rumbo 2027 · Planner de Emprendimiento",
+  "description": "Página de ventas de alta conversión minimalista y persuasiva para el Planner Imprimible Rumbo 2027, Herramienta Companion y Complemento 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
