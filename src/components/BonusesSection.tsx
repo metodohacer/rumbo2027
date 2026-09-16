@@ -104,13 +104,13 @@ export const BonusesSection: React.FC<BonusesSectionProps> = () => {
               <div className="lg:col-span-6 order-2 lg:order-1 flex items-center justify-center">
                 <div className="relative w-full max-w-md rounded-2xl overflow-hidden border border-[#E0D7C8] shadow-md bg-white p-3 sm:p-4 flex items-center justify-center">
                   <img
-                    src={bono2.image || "https://i.postimg.cc/W3wpn31G/Creativo.png"}
+                    src={bono2.image || "/creativo.png"}
                     alt="Complemento de Arranque Inmediato"
                     referrerPolicy="no-referrer"
                     loading="eager"
                     onError={(e) => {
-                      if (e.currentTarget.src !== window.location.origin + '/Creativo.png') {
-                        e.currentTarget.src = '/Creativo.png';
+                      if (e.currentTarget.src !== window.location.origin + '/creativo.png') {
+                        e.currentTarget.src = '/creativo.png';
                       }
                     }}
                     className="w-full h-auto object-contain rounded-xl max-h-[420px] transition-transform duration-300 hover:scale-[1.02]"

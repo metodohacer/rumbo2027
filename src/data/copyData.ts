@@ -67,7 +67,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'Planificación, presupuesto y métricas de lanzamiento',
     description: 'Estructura tus campañas de marketing y publicidad paso a paso: define objetivo, fechas clave, presupuesto asignado, canales de difusión y mide el retorno de inversión (ROI) obtenido.',
     badge: 'Marketing · Campañas',
-    image: 'https://i.postimg.cc/DZzdNHqs/RUMBO-2027-(2).png',
+    image: '/gestor-campanas.png',
     sections: [
       {
         title: 'Estrategia y Presupuesto de Campaña',
@@ -87,7 +87,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'Perfil demográfico, necesidades y propuesta única',
     description: 'Ficha estratégica para definir exactamente a quién ayudas: sus datos demográficos, metas, valores, desafíos reales y la solución única que tu negocio le ofrece.',
     badge: 'Pág. 33 · Estrategia Clave',
-    image: 'https://i.postimg.cc/6pd7fcGQ/33.png',
+    image: '/33.png',
     sections: [
       {
         title: 'Perfil y Datos Demográficos',
@@ -107,7 +107,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'YouTube, Facebook, Instagram, Pinterest y X',
     description: 'Hojas estratégicas dedicadas para cada una de tus plataformas: YouTube, Facebook, Instagram, Pinterest y X. Estructura accesos, frecuencia de publicación, audiencia, temáticas clave y listas de contenido.',
     badge: 'Pág. 16 · Multi-Plataforma',
-    image: 'https://i.postimg.cc/fRh7sJcR/16.png',
+    image: '/16.png',
     sections: [
       {
         title: 'Planificación para Cada Canal',
@@ -135,7 +135,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'Costos, margen de ganancia y precio final de venta',
     description: 'Herramienta práctica para desglosar materias primas, mano de obra y costos fijos, calcular con precisión tu margen de ganancia y fijar precios de venta sostenibles y rentables.',
     badge: 'Herramienta Clave · Precios',
-    image: 'https://i.postimg.cc/1X2HwBVH/RUMBO-2027.png',
+    image: '/calculadora-precio.png',
     sections: [
       {
         title: 'Cálculo de Costos y Materiales',
@@ -155,7 +155,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'Registro seguro y centralizado de perfiles',
     description: 'Mantén en papel los accesos, nombres de usuario, contraseñas, biografías y descripciones de tus redes sociales (Instagram, YouTube, Twitter, Facebook, Pinterest).',
     badge: 'Pág. 30 · Accesos & Seguridad',
-    image: 'https://i.postimg.cc/c1b8xrSL/30.png',
+    image: '/30.png',
     sections: [
       {
         title: 'Control de Perfiles',
@@ -175,7 +175,7 @@ export const PLANNER_SHEETS: PlannerSheet[] = [
     tagline: 'Control financiero mes a mes del negocio',
     description: 'Tabla anual con las columnas exactas para registrar ventas, costos de materiales, salarios, marketing, depreciación y calcular tu ganancia neta mes a mes.',
     badge: 'Pág. 43 · Finanzas Claras',
-    image: 'https://i.postimg.cc/kgdFw5wp/43.png',
+    image: '/43.png',
     sections: [
       {
         title: 'Registro Mes a Mes',
@@ -243,7 +243,7 @@ export const BONUSES: BonusItem[] = [
     realValue: '$15 USD',
     description: 'Muchas personas dicen "empiezo el próximo año", pero los negocios exitosos empiezan hoy con un paso pequeño. Con este complemento recibes hojas adicionales listas para imprimir para arrancar hoy mismo, ordenar tus ideas y tener tus primeros avances sin esperar nada.',
     features: [],
-    image: 'https://i.postimg.cc/W3wpn31G/Creativo.png',
+    image: '/creativo.png',
   },
 ];
 

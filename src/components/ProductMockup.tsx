@@ -6,7 +6,7 @@ interface ProductMockupProps {
 }
 
 const ORIGINAL_USER_IMAGE = '/hero-mockup.png';
-const POSTIMG_CDN_BACKUP = 'https://i.postimg.cc/1t7JBsNn/11.png';
+const POSTIMG_CDN_BACKUP = '/11.png';
 
 export const ProductMockup: React.FC<ProductMockupProps> = ({
   className = '',

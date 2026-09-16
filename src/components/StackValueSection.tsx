@@ -55,7 +55,7 @@ export const StackValueSection: React.FC<StackValueSectionProps> = ({ onBuyClick
           <div className="lg:col-span-6 flex flex-col items-center justify-center order-1">
             <div className="relative w-full max-w-[540px] flex items-center justify-center group">
               <img
-                src="https://i.postimg.cc/JnxDhKZs/13.png"
+                src="/13.png"
                 alt="Todo lo que incluye RUMBO 2027"
                 referrerPolicy="no-referrer"
                 loading="eager"
